@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: e2b830f337b741942afa913305d80cab
+timeCreated: 1520140390
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Super Princess Peach - Neutral Peach_0
+    21300002: DS DSi - Super Princess Peach - Neutral Peach_1
+    21300004: DS DSi - Super Princess Peach - Neutral Peach_2
+    21300006: DS DSi - Super Princess Peach - Neutral Peach_3
+    21300008: DS DSi - Super Princess Peach - Neutral Peach_4
+    21300010: DS DSi - Super Princess Peach - Neutral Peach_5
+    21300012: DS DSi - Super Princess Peach - Neutral Peach_6
+    21300014: DS DSi - Super Princess Peach - Neutral Peach_7
+    21300016: DS DSi - Super Princess Peach - Neutral Peach_8
+    21300018: DS DSi - Super Princess Peach - Neutral Peach_9
+    21300020: DS DSi - Super Princess Peach - Neutral Peach_10
+    21300022: DS DSi - Super Princess Peach - Neutral Peach_11
+    21300024: DS DSi - Super Princess Peach - Neutral Peach_12
+    21300026: DS DSi - Super Princess Peach - Neutral Peach_13
+    21300028: DS DSi - Super Princess Peach - Neutral Peach_14
+    21300030: DS DSi - Super Princess Peach - Neutral Peach_15
+    21300032: DS DSi - Super Princess Peach - Neutral Peach_16
+    21300034: DS DSi - Super Princess Peach - Neutral Peach_17
+    21300036: DS DSi - Super Princess Peach - Neutral Peach_18
+    21300038: DS DSi - Super Princess Peach - Neutral Peach_19
+    21300040: DS DSi - Super Princess Peach - Neutral Peach_20
+    21300042: DS DSi - Super Princess Peach - Neutral Peach_21
+    21300044: DS DSi - Super Princess Peach - Neutral Peach_22
+    21300046: DS DSi - Super Princess Peach - Neutral Peach_23
+    21300048: DS DSi - Super Princess Peach - Neutral Peach_24
+    21300050: DS DSi - Super Princess Peach - Neutral Peach_25
+    21300052: DS DSi - Super Princess Peach - Neutral Peach_26
+    21300054: DS DSi - Super Princess Peach - Neutral Peach_27
+    21300056: DS DSi - Super Princess Peach - Neutral Peach_28
+    21300058: DS DSi - Super Princess Peach - Neutral Peach_29
+    21300060: DS DSi - Super Princess Peach - Neutral Peach_30
+    21300062: DS DSi - Super Princess Peach - Neutral Peach_31
+    21300064: DS DSi - Super Princess Peach - Neutral Peach_32
+    21300066: DS DSi - Super Princess Peach - Neutral Peach_33
+    21300068: DS DSi - Super Princess Peach - Neutral Peach_34
+    21300070: DS DSi - Super Princess Peach - Neutral Peach_35
+    21300072: DS DSi - Super Princess Peach - Neutral Peach_36
+    21300074: DS DSi - Super Princess Peach - Neutral Peach_37
+    21300076: DS DSi - Super Princess Peach - Neutral Peach_38
+    21300078: DS DSi - Super Princess Peach - Neutral Peach_39
+    21300080: DS DSi - Super Princess Peach - Neutral Peach_40
+    21300082: DS DSi - Super Princess Peach - Neutral Peach_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 930
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 930
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 925
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 930
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 930
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 930
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 930
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 930
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 930
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 930
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 930
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 930
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 930
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 930
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 930
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 930
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 930
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 930
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 930
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 930
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 930
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 930
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 930
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 930
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 930
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 930
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 930
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 925
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 706
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 507
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 506
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 506
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 505
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_33
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 505
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 312
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 313
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 312
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 313
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 312
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 112
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 112
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Super Princess Peach - Neutral Peach_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 358
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
